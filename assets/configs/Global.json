@@ -1,0 +1,62 @@
+{
+  "Scene": "Global",
+  "BackgroundMusic": {
+    "Path": "music/246315__dvideoguy__folk-guitar-music-track.mp3",
+    "SampleRate": 44100
+  },
+  "Images": [
+
+    {
+      "Key" : "Target",
+      "location": "art/",
+      "FileName": "target.png"
+    },
+    {
+      "Key" : "Target Black",
+      "location": "art/",
+      "FileName": "target_black.png"
+    },
+    {
+      "Key" : "Target Blue",
+      "location": "art/",
+      "FileName": "target_darkblue.png"
+    },
+    {
+      "Key" : "Target Green",
+      "location": "art/",
+      "FileName": "target_green.png"
+    },
+    {
+      "Key" : "Target Yellow",
+      "location": "art/",
+      "FileName": "target_yellow.png"
+    },
+    {
+      "Key" : "Bullet",
+      "location": "art/",
+      "FileName": "bullet.png"
+    },
+    {
+      "Key" : "Background",
+      "location": "art/",
+      "FileName": "sky.png"
+    }
+  ],
+  "Sounds": [
+    {
+      "Key" : "Shot",
+      "location": "sound",
+      "FileName": "Content_220611__senitiel__pistol3.mp3",
+      "SampleRate": 44100
+    }
+
+
+  ],
+  "Fonts" : [
+    {
+      "Key" : "KenneyPixel",
+      "location": "fonts/",
+      "FileName": "KenneyPixel.ttf"
+    }
+  ]
+}
