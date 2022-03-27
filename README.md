@@ -9,6 +9,7 @@
 
 ## ART: 
 1. Kenny - https://www.kenney.nl/assets/space-shooter-redux
+2. https://opengameart.org/content/bullet-symbol
 
 
 ## Music/Sound Effects. 
